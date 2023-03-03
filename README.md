@@ -11,9 +11,7 @@ Hello there 👋, I'm Sandra Chaparro
   
   
 ![image](https://user-images.githubusercontent.com/55746359/222834009-53b54843-f548-4be4-8c48-e6577c4375b3.png)
-![image](https://user-images.githubusercon
 ![image](https://user-images.githubusercontent.com/55746359/222834745-38890fed-3a24-46b2-9b82-6d945b240dba.png)
-tent.com/55746359/222834082-10defee5-7978-4236-ae07-18d2d3ae4eef.png)
 ![image](https://user-images.githubusercontent.com/55746359/222834154-f16757bb-6f47-4bcf-9f5f-d54eb1912113.png)
 ![image](https://user-images.githubusercontent.com/55746359/222834228-d38265b2-4b6a-45d2-81ea-e40b3057d182.png)
 ![image](https://user-images.githubusercontent.com/55746359/222834703-d5588562-2595-496c-856f-b5fbf16adb12.png)
