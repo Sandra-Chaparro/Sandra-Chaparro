@@ -4,7 +4,7 @@ Hello there 👋, I'm Sandra Chaparro
 
 
 
-   💻 This account shows a couple of projects that I have done in school and in my leisure time while learning new technologies.
+   💻 This account shows a couple of projects that I have done at school and in my leisure time while learning new technologies.
     
 
   - 👩🏻‍🎓 I graduated with a Bachelor of Science in Computer Science and Information Systems Engineering.
