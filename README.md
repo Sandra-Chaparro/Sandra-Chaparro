@@ -9,6 +9,7 @@ Hello there 👋, I'm Sandra Chaparro
 
   - 👩🏻‍🎓 I graduated with a Bachelor of Science in Computer Science and Information Systems Engineering.
   - 👩🏻‍🏫 I am currently working as a Computer Science Tutor providing lessons on: Javascript, ReactJS, C++, Java, etc.
+  - I finished a cohort project with the Dallas Software Developers where we created a Grocery Managment Tool using MERN stack.
   - 👩🏼‍💻I finished my Co-Op as a software engineer on 10/2022 and I am ready to start a full time opportunity to keep growing and contributing using my           skills and knowledge. 🧠 💡
   
   
