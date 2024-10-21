@@ -4,13 +4,13 @@ Hello there 👋, I'm Sandra Chaparro
 
 
 
-   💻 This account shows a couple of projects that I have done at school and in my leisure time while learning new technologies.
+   💻 This account shows a couple of projects that I have done as a freelance, in a cohort and when I was at school learning new technologies.
     
 
   - 👩🏻‍🎓 I graduated with a Bachelor of Science in Computer Science and Information Systems Engineering.
   - 👩🏻‍🏫 I am currently working as a Computer Science Tutor providing lessons on: Javascript, ReactJS, C++, Java, etc.
-  - I finished a cohort project with the Dallas Software Developers where we created a Grocery Managment Tool using MERN stack.
-  - 👩🏼‍💻I finished my Co-Op as a software engineer on 10/2022 and I am ready to start a full time opportunity to keep growing and contributing using my           skills and knowledge. 🧠 💡
+  - I finished a cohort project early this year (2024) with the Dallas Software Developers where we created a Grocery Managment Tool using MERN stack.
+  - 👩🏼‍💻I finished my Co-Op as a software engineer on 10/2022 and I am ready to start a full time opportunity to keep growing and contributing using my skills and knowledge. 🧠 💡
 
   - Currently I am also learning about Generative AI, and implementing it to practice.
   
