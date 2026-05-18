@@ -3,7 +3,9 @@
 Hello there 👋, I'm Sandra Chaparro
 
 💻 Full-stack developer building with Javascript, React, MongoDB, Node, NextJS, and MySQL.
+
 🔐 Transitioning into Cybersecurity with a focus on DevSecOps, and cloud security.
+
 ⚛️ Exploring Quantum Computing and post-quantum cryptography.
 
   
