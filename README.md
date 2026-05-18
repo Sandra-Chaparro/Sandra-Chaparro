@@ -2,10 +2,10 @@
 
 Hello there 👋, I'm Sandra Chaparro
 
+💻 Full-stack developer building with Javascript, React, MongoDB, Node, NextJS, and MySQL.
+🔐 Transitioning into Cybersecurity with a focus on DevSecOps, and cloud security.
+⚛️ Exploring Quantum Computing and post-quantum cryptography.
 
-
-
-  - 👩🏻‍🎓 I graduated with a Bachelor of Science in Computer Science and Information Systems Engineering in 2022.
   
   
  Languajes and Tools 
